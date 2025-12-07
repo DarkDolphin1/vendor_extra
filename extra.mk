@@ -4,6 +4,10 @@ PRODUCT_PACKAGES += \
     PixelLauncherNoGestureHintOverlay
 endif
 
+# Themes
+PRODUCT_PACKAGES += \
+    AndroidBlackThemeOverlay
+
 # Lock/Unlock sounds
 PRODUCT_COPY_FILES += \
      $(call find-copy-subdir-files,*,vendor/extra/prebuilt/product/media/audio/ui,$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui)
