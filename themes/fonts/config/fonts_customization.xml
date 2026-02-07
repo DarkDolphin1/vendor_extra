@@ -176,6 +176,15 @@
         <font weight="300" style="normal">DiscoMidnight.ttf</font>
     </family>
 
+    <!-- Dosis -->
+    <family customizationType="new-named-family" name="Dosis">
+        <font weight="400" style="normal">Dosis-regular.ttf</font>
+    </family>
+    <alias name="dosis-medium" to="dosis" weight="500" />
+    <alias name="dosis-semibold" to="dosis" weight="600" />
+    <alias name="dosis-bold" to="dosis" weight="700" />
+    <alias name="dosis-extrabold" to="dosis" weight="800" />
+
     <!-- EasterBunny -->
     <family customizationType="new-named-family" name="EasterBunny">
         <font weight="300" style="normal">EasterBunny.ttf</font>
@@ -806,6 +815,14 @@
     <alias name="quando-medium" to="quando" weight="500" />
     <alias name="quando-semi-bold" to="quando" weight="600" />
     <alias name="quando-bold" to="quando" weight="700" />
+
+    <!-- QuickSand -->
+    <family customizationType="new-named-family" name="QuickSand">
+        <font weight="400" style="normal">Quicksandregular.ttf</font>
+    </family>
+    <alias name="quicksand-medium" to="dosis" weight="500" />
+    <alias name="quicksand-semibold" to="dosis" weight="600" />
+    <alias name="quicksand-bold" to="dosis" weight="700" />
 
     <!-- QuickSouth -->
     <family customizationType="new-named-family" name="QuickSouth">
